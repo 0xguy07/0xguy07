@@ -1,0 +1,18 @@
+{
+  "canonical_source": "https://github.com/0xguy07/0xguy07/blob/main/README.md",
+  "source_commit": "61a2a5fb16f223b46e37df430b099ac70569bbff",
+  "policy": "Update README.md first; adapt its facts to each platform. These drafts are not automatic synchronization. Preserve platform-managed credentials and badges.",
+  "linkedin": {
+    "url": "https://www.linkedin.com/in/gfriley/",
+    "status": "draft_not_applied_browser_unavailable",
+    "headline": "Senior Technical Support Engineer @ Salesforce | Security & Infrastructure | Linux, Networking & Homelab | Agent-assisted Engineering | Master of Data Science, Pitt (in progress)",
+    "about": "I investigate complex platform problems and build tools that make systems easier to understand. As a Senior Technical Support Engineer on Salesforce’s Signature Success team, I work across nonprofit and education use cases using Apex debugging, SOQL and Tooling API queries, telemetry analysis, and reproduction harnesses.\n\nMy background spans enterprise IT, Salesforce development and administration, and technical investigation. I build agent-assisted workflows with Salesforce tools, MCP integrations, Python automation, and model delegation, with attention to source evidence, documentation, and cost.\n\nMy public projects include sf-tui, a Go-based Salesforce terminal workbench; sf-claude-studio, a Claude Code harness for Salesforce delivery; Timberborn tools combining reverse engineering and MCP; and tools for running Dungeons & Dragons in Roll20. My homelab is where I explore Proxmox, Linux, Docker, networking, and self-hosted services.\n\nI am pursuing a Master of Data Science at the University of Pittsburgh (expected 2026), focusing on machine learning, predictive modeling, data engineering, and ethical AI. I hold a BA from Duquesne University in Web Page, Digital/Multimedia and Information Resources Design. My credentials include Salesforce Administrator, AWS Solutions Architect – Associate, Microsoft AZ-900/MS-900/SC-900, and TryHackMe Pre Security. CompTIA Security+ preparation is in progress.\n\nThrough Salesforce Impact Exchange, I contribute pro bono engineering to SAMHIN’s Nonprofit Cloud implementation and Wildlife Victoria’s NPSP remediation.\n\nExplore my work: https://github.com/0xguy07\nPortfolio: https://0xguy07.github.io/"
+  },
+  "trailhead": {
+    "url": "https://www.salesforce.com/trailblazer/gfriley2",
+    "status": "draft_not_applied_browser_unavailable",
+    "title": "Senior Technical Support Engineer",
+    "company": "Salesforce",
+    "bio": "Senior Technical Support Engineer at Salesforce, focused on nonprofit and education investigations. I build Salesforce developer tools and agent-assisted workflows, contribute through Impact Exchange, and study Data Science at Pitt. Projects: https://github.com/0xguy07"
+  }
+}
