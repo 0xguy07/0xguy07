@@ -1,6 +1,6 @@
 # Guy Friley
 
-**Salesforce technical investigator · Developer tooling · Agent-assisted engineering**
+**Senior Technical Support Engineer @ Salesforce · Security & Infrastructure · Agent-assisted engineering**
 
 Pittsburgh, Pennsylvania · [`0xguy07`](https://github.com/0xguy07)
 
@@ -12,13 +12,14 @@ I investigate complex platform problems and build tools that make systems easier
 
 ## Professional background
 
-I'm a **Signature Success Technical Support Engineer at Salesforce**, with a background spanning enterprise IT, Salesforce development and administration, and technical investigation. My investigation work includes nonprofit and education use cases, Apex debugging, SOQL and Tooling API queries, telemetry analysis, and building reproduction harnesses for difficult defects.
+I'm a **Senior Technical Support Engineer on Salesforce's Signature Success team**, promoted in June 2026, with a background spanning enterprise IT, Salesforce development and administration, and technical investigation. My investigation work includes nonprofit and education use cases, Apex debugging, SOQL and Tooling API queries, telemetry analysis, and building reproduction harnesses for difficult defects.
 
 I also build agent-assisted workflows for gathering case evidence and preparing investigations. That work combines Salesforce tools, MCP integrations, Python automation, and model delegation—with attention to source evidence, useful documentation, and the cost of getting to an answer.
 
 | Experience | Focus |
 | --- | --- |
-| **Salesforce · 2021–present** | Technical support and investigation of complex enterprise platform issues |
+| **Salesforce · Senior Technical Support Engineer · Jun 2026–present** | Senior escalation support for Nonprofit Cloud, Education Cloud, and OmniStudio; incident response and peer mentoring |
+| **Salesforce · Technical Support Engineer · Oct 2021–Jun 2026** | Technical support and investigation of complex enterprise platform issues |
 | **Virtual Clarity / DXC · 2020–2021** | Salesforce development and administration, including Azure AD-to-Salesforce provisioning automation |
 | **Highmark Health · 2019–2020** | Enterprise IT infrastructure support for Allegheny Health Network staff |
 | **World-Class Industrial Network · 2019** | Salesforce business analysis, contract role |
@@ -64,7 +65,19 @@ Across work and personal projects, I care about:
 
 ## Education & credentials
 
-**In progress:** Master of Science in Data Science, University of Pittsburgh.
+### University of Pittsburgh — Master of Data Science
+
+**May 2024–present · Expected 2026**
+
+Focus: machine learning, predictive modeling, data engineering, and ethical AI. Coursework includes Python and R with Jupyter and RStudio, MySQL, Neo4j, data visualization, and big data curation, with hands-on projects using real-world datasets.
+
+### Duquesne University — Bachelor of Arts
+
+**2017–2019 · McAnulty College and Graduate School of Liberal Arts**
+
+Field of study: Web Page, Digital/Multimedia and Information Resources Design. Focus: UX/UI design, human-computer interaction, web and mobile development, AR/VR, and interactive design.
+
+### Certifications & continuing education
 
 **Credentials:**
 
@@ -72,12 +85,26 @@ Across work and personal projects, I care about:
 - Microsoft Azure Fundamentals — AZ-900
 - Microsoft 365 Fundamentals — MS-900
 - Microsoft Security, Compliance, and Identity Fundamentals — SC-900
+- Salesforce Administrator
+- TryHackMe Pre Security (SEC0) — issued March 2026; expires March 2029
+
+**Completed courses:**
+
+- Codecademy — Learn HTML: Fundamentals
+- Codecademy — Working with Containers: Introduction to Docker
+- Codecademy — Working with Containers: Container Theory & Operational Models
+- KodeKloud — Crash Course: Docker For Absolute Beginners
+
+**In progress:** CompTIA Security+ preparation.
 
 **Current learning:** agent architecture and evaluation, Python, Linux and networking, container infrastructure, and security. I'm particularly interested in making agent workflows observable, reliable, and economical.
 
-## Volunteer project
+## Volunteer engineering
 
-I have contributed to the **SAMHIN (South Asian Mental Health Initiative and Network) Salesforce Nonprofit Cloud implementation**, supporting a nonprofit project focused on case management and service coordination.
+I contribute pro bono Salesforce engineering through **Salesforce Impact Exchange**, alongside my full-time role.
+
+- **SAMHIN (South Asian Mental Health Initiative & Network) · Nov 2025–present:** Sole technical contributor on a Nonprofit Cloud and Person Accounts implementation for a mental-health helpline. Work includes intake automation, Apex services and tests, least-privilege operator permissions, dashboards, and source-tracked deployment.
+- **Wildlife Victoria · Jun 2026–present:** Sole technical contributor on NPSP remediation, including Apex map-controller fixes, Flow defect resolution, Custom Metadata configuration, and an org health audit, with deployment packages and code reviews prepared for the organization's admin.
 
 ## Beyond the terminal
 
